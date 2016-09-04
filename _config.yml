@@ -1,7 +1,18 @@
+layout_spectrum: 0.33256835234351456
+typography_spectrum: 0.2276293581817299
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.9963764178100973
+  lightness: 0.5850097117945552
+  saturation: 0.9451702223159373
+  rhythmicContrast: 0.3941602057311684
 name: Explore
 favicon: null
-layout_spectrum: 0.2657411713153124
-typography_spectrum: 0.8900462856981903
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.8694017543457448
-  lightness: 0.7948046957608312
-  saturation: 0.6192345931194723
-  rhythmicContrast: 0.4511898308992386
 purpose: []
